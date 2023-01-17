@@ -1,4 +1,6 @@
-# Fabric Example Mod
+# Better Infinity Mod
+
+Removes need for an arrow in your inventory to shoot an infinity bow.
 
 ## Setup
 
